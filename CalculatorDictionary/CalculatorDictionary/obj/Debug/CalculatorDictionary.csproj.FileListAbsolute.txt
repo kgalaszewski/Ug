@@ -1,0 +1,7 @@
+c:\users\karool\source\repos\CalculatorDictionary\CalculatorDictionary\bin\Debug\CalculatorDictionary.exe.config
+c:\users\karool\source\repos\CalculatorDictionary\CalculatorDictionary\bin\Debug\CalculatorDictionary.exe
+c:\users\karool\source\repos\CalculatorDictionary\CalculatorDictionary\bin\Debug\CalculatorDictionary.pdb
+c:\users\karool\source\repos\CalculatorDictionary\CalculatorDictionary\obj\Debug\CalculatorDictionary.csprojResolveAssemblyReference.cache
+c:\users\karool\source\repos\CalculatorDictionary\CalculatorDictionary\obj\Debug\CalculatorDictionary.csproj.CoreCompileInputs.cache
+c:\users\karool\source\repos\CalculatorDictionary\CalculatorDictionary\obj\Debug\CalculatorDictionary.exe
+c:\users\karool\source\repos\CalculatorDictionary\CalculatorDictionary\obj\Debug\CalculatorDictionary.pdb
